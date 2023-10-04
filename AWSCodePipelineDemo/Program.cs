@@ -1,0 +1,1 @@
+app.MapGet("/", () => "Hello World!");
